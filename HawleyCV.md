@@ -1,5 +1,3 @@
-
-<div class="tip" markdown="1">
 ###### updated 2024-07
 
 # STEVE HAWLEY, MSc, EMHI
@@ -173,4 +171,3 @@ Earl of March Secondary School, Kanata, ON
 
 Anita Seguin Valedictorian Award; 2004
 Earl of March Secondary School, Kanata, ON
-</div>
