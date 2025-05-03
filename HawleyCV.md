@@ -1,9 +1,3 @@
-############################
-MIGRATED TO GITHUB
-https://github.com/st3v3h/resume/blob/main/HawleyCV.md
-############################
-
-
 ###### updated 2024-07
 
 # STEVE HAWLEY, MSc, EMHI
