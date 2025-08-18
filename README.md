@@ -10,7 +10,7 @@ With over ten years of experience in some of the world’s foremost healthcare a
 ## CAREER SUMMARY 
 
 ### Principal Product Data Manager (Promotion)
-Verily | Remote | 2022-01 to Present
+Verily | Remote | 2025-08 to Present
 - Spearheaded the optimization of user workflows and interfaces for data management tools, enhancing usability and efficiency.
 - Led the integration and alignment of front-end systems with back-end infrastructure to ensure seamless product functionality and support long-term growth.
 - Served as a key liaison between product, engineering, and analytics teams, translating strategic business goals into actionable deliverables and ensuring successful project execution.
