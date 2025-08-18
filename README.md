@@ -9,8 +9,15 @@ With over ten years of experience in some of the world’s foremost healthcare a
 
 ## CAREER SUMMARY 
 
-### Senior Clinical Data Manager
+### Principal Product Data Manager (Promotion)
 Verily | Remote | 2022-01 to Present
+- Spearheaded the optimization of user workflows and interfaces for data management tools, enhancing usability and efficiency.
+- Led the integration and alignment of front-end systems with back-end infrastructure to ensure seamless product functionality and support long-term growth.
+- Served as a key liaison between product, engineering, and analytics teams, translating strategic business goals into actionable deliverables and ensuring successful project execution.
+- Supported the development and implementation of key healthcare data standards, including CDISC and FHIR, within user-facing systems.
+
+### Senior Clinical Data Manager
+Verily | Remote | 2022-01 to 2025-08
 - Led all data management activities (startup, conduct, database lock) for HERO Together and HERO Boost, two Pfizer partner studies tracking safety events for the COVID-19 vaccines with over 30,000 participants.
 - Oversaw, supported, or consulted on several other high-profile projects including medical device clinical trails and patient registries with major partners such as Otsuka Pharmaceutical and L’Oreal. 
 - Established new clinical care workstreams and defined new processes for the Clinical Data Management Team while collaborating cross functionally with project managers, UX researchers, and software engineers to launch a new precision health platform under extremely aggressive timelines.
