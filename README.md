@@ -30,7 +30,7 @@ Seneca College | Remote | 2021-10 to Present
 - Described by students as “a wonderful teacher [with] an ability to organize and simplify course content for the class.”
 
 ### Project Leader
-CAMH | Toronto, ON | 2019-07 to Present
+CAMH | Toronto, ON | 2019-07 to 2021-12
 - Managed all REDCap clinical, research, and clinical trial electronic data capture at CAMH
 - Chaired the CAMH REDCap Operations Committee and the Canadian REDCap Administrator Committee
 - Developed standards, training materials, and governance for REDCap integration into the CAMH EHR culminating in over 80,000 clinical self-referral forms submitted and a first-author publication
