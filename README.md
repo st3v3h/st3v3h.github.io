@@ -82,6 +82,27 @@ University of Guelph (Jones Lab) | Guelph, ON | 2011-01 to 2011-08
 - Continued research from Master’s degree in nervous system development using mouse model and cell culture systems
 - Developed FileMaker Pro databases to manage lab inventory
 
+### Undergraduate Researcher (Co-op)
+University of Guelph | Guelph, ON | May 2008 - Sep 2008
+- Named University of Guelph's Co-op Student of the Year in Science and Engineering
+- Displayed leadership and innovation by initiating a bi-weekly journal club
+- Dependably managed a colony of transgenic mice and developed appropriate breeding strategies
+- Generated immunohistochemical data which would later be used in a first-author publication
+
+### Analytical Chemist (Co-op)
+Chemtura | Guelph, ON | Jan 2007 - Sep 2007
+- Performed routine waste water analysis for an environmental remediation project using methods such as HPLC, GC, GC/MSD and NMR
+- Dependably received, analyzed and processed various industrial waste water and pesticide samples
+
+### Research Technologist (Co-op)
+Environment Canada | Ottawa, ON | Jan 2006 - May 2006
+- Performed a systematic literature review of current microwave technologies and applications, and gained experience with specialized microwave instrumentation
+- Was selected out of four summer students to travel to Alberta to discuss an innovative project involving microwave treatment of oil sands
+
+### Student Technical Specialist
+Canadian Nuclear Safety Commission | Ottawa, ON | May 2005 - Sep 2005
+- Critically examined and presented data relating to specific nuclear reactor performance indicators
+- Programmed MS Excel macros to consolidate, organize and present data quickly and efficiently
 
 ## EDUCATION
 
@@ -97,9 +118,12 @@ University of Guelph, Guelph, Ontario
 2008 - Honours Bachelor of Science, Biochemistry: Co-operative Education  
 University of Guelph, Guelph, Ontario
 
+## CERTIFICATIONS
+- HL7 FHIR Foundational Implementer (2025)
 
 ## EXPERTISE
 
+- AI Literacy (Cursor, Claude Code)
 - Data management (SQL, EDC, documentation)
 - Writing (briefing notes, SOPs, data management plans)
 - Adobe Photoshop
