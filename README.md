@@ -13,18 +13,20 @@ To learn more, check out my website at stevehawley.ca
 
 ### Principal Product Data Manager (Promotion)
 Verily | Remote | 2025-08 to Present
-- Spearheaded the optimization of user workflows and interfaces for data management tools, enhancing usability and efficiency.
-- Led the integration and alignment of front-end systems with back-end infrastructure to ensure seamless product functionality and support long-term growth.
-- Served as a key liaison between Product, Engineering, and Analytics teams, translating strategic business goals into actionable deliverables and ensuring successful project execution.
-- Supported the development and implementation of key healthcare data standards, including CDISC and FHIR, within user-facing systems.
-- Certified FHIR Implementer.
+#### Strategic Leadership & Governance
+- **Govern the organization’s foundational data model** as a Certified FHIR Implementer on the Global FHIR Council, establishing architectural standards and ensuring data interoperability across all product lines.
+- **Serve as a Technical Subject Matter Expert (SME) and Liaison** between Engineering and Product Management, translating high-level product vision into scalable technical requirements and guiding the strategic roadmap for data-intensive platforms.
+- **Lead the architectural alignment** of front-end product systems with back-end infrastructure to ensure long-term scalability and seamless functionality for complex research technologies.
+#### Technical Mentorship & Organizational Transformation
+- **Spearheaded an AI Transformation Initiative** for the Product Operations & Management department, upskilling 60+ members in "vibe coding" workflows (Cursor, Claude Code). This program empowered non-engineering teams to build and adopt custom internal tools, significantly reducing manual overhead.
+- **Engineered an enterprise-wide FHIR Training Platform** for Verily, designed to prepare technical staff for the FHIR Implementer Certification; directly increased the organization’s pool of certified subject matter experts through structured exam preparation and curriculum design.
 
 ### Senior Clinical Data Manager
 Verily | Remote | 2022-01 to 2025-08
-- Led all data management activities (startup, conduct, database lock) for HERO Together and HERO Boost, two Pfizer partner studies tracking safety events for the COVID-19 vaccines with over 30,000 participants.
-- Oversaw, supported, or consulted on several other high-profile projects including medical device clinical trails and patient registries with major partners such as Otsuka Pharmaceutical and L’Oreal. 
-- Established new clinical care workstreams and defined new processes for the Clinical Data Management Team while collaborating cross functionally with project managers, UX researchers, and software engineers to launch a new precision health platform under extremely aggressive timelines.
-- Created training videos and internal web artifacts for topics like constructing data transfer pipelines, creating ETLs, and automation via the command line. Also created monthly SQL problems sets from beginner to advanced for CDM and Product Analytics team members.
+#### High-Stakes Program Delivery
+- **Directed end-to-end data strategy for high-profile global initiatives**, including Pfizer’s COVID-19 vaccine safety tracking studies (HERO Together/Boost) involving 30,000+ participants and medical device trials for Otsuka Pharmaceutical. 
+- **Orchestrated cross-functional workstreams** (UX, Engineering, and PM) to launch a new precision health platform under aggressive timelines, defining the operational processes and clinical data standards from the ground up.
+- **Cultivated a culture of technical excellence** by developing automated ETL training and a tiered SQL curriculum, bridging the technical gap for Clinical Data Management and Product Analytics teams.
 
 ### Continuing Education Faculty
 Seneca College | Remote | 2021-10 to Present
