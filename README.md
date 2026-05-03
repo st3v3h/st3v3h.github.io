@@ -17,7 +17,7 @@ To learn more, check out my website at stevehawley.ca
 
 ## CAREER SUMMARY 
 
-### Principal Product Data Manager (Promotion)
+### Principal Product Data Manager/Analyst
 Verily | Remote | 2025-08 to Present
 #### Strategic Leadership & Governance
 - **Govern the organization’s foundational data model** as a Certified FHIR Implementer on the Verily FHIR Council, establishing architectural standards and ensuring data interoperability across all product lines.
@@ -27,7 +27,7 @@ Verily | Remote | 2025-08 to Present
 - **Spearheaded an AI Transformation Initiative** for the Product Operations & Management department, upskilling 60+ members in "vibe coding" workflows (Cursor, Claude Code). This program empowered non-engineering teams to build and adopt custom internal tools, significantly reducing manual overhead.
 - **Engineered an enterprise-wide FHIR Training Platform** for Verily, designed to prepare technical staff for the FHIR Implementer Certification; directly increased the organization’s pool of certified subject matter experts through structured exam preparation and curriculum design.
 
-### Senior Clinical Data Manager
+### Staff Clinical Data Manager/Analyst
 Verily | Remote | 2022-01 to 2025-08
 #### High-Stakes Program Delivery
 - **Directed end-to-end data strategy for high-profile global initiatives**, including Pfizer’s COVID-19 vaccine safety tracking studies (HERO Together/Boost) involving 30,000+ participants and medical device trials for Otsuka Pharmaceutical. 
