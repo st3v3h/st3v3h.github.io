@@ -5,7 +5,9 @@ stevehawley85@gmail.com | stevehawley.ca
 
 ## SUMMARY
 
-With over ten years of experience in some of the world’s foremost healthcare and technology companies, I have strong analytical skills and broad experience with managing data for multi-million-dollar projects. I am a goal-oriented, strategic thinker whose work has had an organizational impact, and I have a proven ability to take decisive action and thrive in ambiguity.
+Strategic Technical Leader with 15+ years of experience driving innovation across the North American research and technology sectors. Expert in bridging the gap between product development and complex downstream data management. Proven track record of rapidly adopting and operationalizing emerging technologies, such as FHIR and AI, to establish organizational standards. Committed to building scalable systems and leading goal-oriented teams in fast-paced environments where ambiguity is an opportunity, not a threat. 
+
+To learn more, check out my website at stevehawley.ca
 
 ## CAREER SUMMARY 
 
@@ -13,8 +15,9 @@ With over ten years of experience in some of the world’s foremost healthcare a
 Verily | Remote | 2025-08 to Present
 - Spearheaded the optimization of user workflows and interfaces for data management tools, enhancing usability and efficiency.
 - Led the integration and alignment of front-end systems with back-end infrastructure to ensure seamless product functionality and support long-term growth.
-- Served as a key liaison between product, engineering, and analytics teams, translating strategic business goals into actionable deliverables and ensuring successful project execution.
+- Served as a key liaison between Product, Engineering, and Analytics teams, translating strategic business goals into actionable deliverables and ensuring successful project execution.
 - Supported the development and implementation of key healthcare data standards, including CDISC and FHIR, within user-facing systems.
+- Certified FHIR Implementer.
 
 ### Senior Clinical Data Manager
 Verily | Remote | 2022-01 to 2025-08
