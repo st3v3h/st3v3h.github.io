@@ -5,7 +5,13 @@ stevehawley85@gmail.com | stevehawley.ca
 
 ## SUMMARY
 
-Strategic Technical Leader with 15+ years of experience driving innovation across the North American research and technology sectors. Expert in bridging the gap between product development and complex downstream data management. Proven track record of rapidly adopting and operationalizing emerging technologies, such as FHIR and AI, to establish organizational standards. Committed to building scalable systems and leading goal-oriented teams in fast-paced environments where ambiguity is an opportunity, not a threat. 
+Strategic Technical Leader with 15+ years of experience driving innovation across the North American research and technology sectors. I specialize in bridging the gap between product development and complex downstream data management, transforming technical complexity into organizational growth.
+
+Currently, I serve as a Subject Matter Expert and Liaison between Engineering and Product Management, while governing foundational data models as a certified member of the Verily FHIR Council.
+
+Beyond systems, I am a builder of people. I recently spearheaded an AI Transformation Initiative, upskilling 60+ department members in "vibe coding" workflows (using tools like Cursor and Claude) to build and adopt custom internal tools. I also engineered an enterprise-wide FHIR training platform to scale technical expertise across the organization.
+
+From directing global data strategy for 30,000-participant Pfizer studies to architecting precision health platforms, I thrive in fast-paced environments where ambiguity is an opportunity, not a threat.
 
 To learn more, check out my website at stevehawley.ca
 
@@ -14,7 +20,7 @@ To learn more, check out my website at stevehawley.ca
 ### Principal Product Data Manager (Promotion)
 Verily | Remote | 2025-08 to Present
 #### Strategic Leadership & Governance
-- **Govern the organization’s foundational data model** as a Certified FHIR Implementer on the Global FHIR Council, establishing architectural standards and ensuring data interoperability across all product lines.
+- **Govern the organization’s foundational data model** as a Certified FHIR Implementer on the Verily FHIR Council, establishing architectural standards and ensuring data interoperability across all product lines.
 - **Serve as a Technical Subject Matter Expert (SME) and Liaison** between Engineering and Product Management, translating high-level product vision into scalable technical requirements and guiding the strategic roadmap for data-intensive platforms.
 - **Lead the architectural alignment** of front-end product systems with back-end infrastructure to ensure long-term scalability and seamless functionality for complex research technologies.
 #### Technical Mentorship & Organizational Transformation
