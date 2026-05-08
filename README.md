@@ -30,7 +30,7 @@ Verily | Remote | 2025-08 to Present
 ### Staff Clinical Data Manager/Analyst
 Verily | Remote | 2022-01 to 2025-08
 #### High-Stakes Program Delivery
-- **Directed end-to-end data strategy for high-profile global initiatives**, including Pfizer’s COVID-19 vaccine safety tracking studies (HERO Together/Boost) involving 30,000+ participants and medical device trials for Otsuka Pharmaceutical. 
+- **Directed end-to-end data strategy for high-profile global initiatives**, including Pfizer’s COVID-19 vaccine safety tracking studies (HERO Together/Boost) involving 30,000+ participants and patient registries for Otsuka Pharmaceutical and L'Oreal. 
 - **Orchestrated cross-functional workstreams** (UX, Engineering, and PM) to launch a new precision health platform under aggressive timelines, defining the operational processes and clinical data standards from the ground up.
 - **Cultivated a culture of technical excellence** by developing automated ETL training and a tiered SQL curriculum, bridging the technical gap for Clinical Data Management and Product Analytics teams.
 
