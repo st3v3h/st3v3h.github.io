@@ -9,7 +9,7 @@ Strategic Technical Leader with 15+ years of experience driving innovation acros
 
 Currently, I serve as a Subject Matter Expert and Liaison between Engineering and Product Management, while governing foundational data models as a certified member of the Verily FHIR Council.
 
-Beyond systems, I am a builder of people. I recently spearheaded an AI Transformation Initiative, upskilling 60+ department members in "vibe coding" workflows (using tools like Cursor and Claude) to build and adopt custom internal tools. I also engineered an enterprise-wide FHIR training platform to scale technical expertise across the organization.
+Beyond systems, I am a builder of people. I recently spearheaded an AI Transformation Initiative, upskilling 60+ department members in "vibe coding" workflows (using tools like Cursor and Claude Code) to build and adopt custom internal tools. I also engineered an enterprise-wide FHIR training platform to scale technical expertise across the organization.
 
 From directing global data strategy for 30,000-participant Pfizer studies to architecting precision health platforms, I thrive in fast-paced environments where ambiguity is an opportunity, not a threat.
 
