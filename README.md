@@ -21,7 +21,8 @@ To learn more, check out my website at stevehawley.ca
 Verily | Remote | 2025-08 to Present
 #### Strategic Leadership & Governance
 - **Govern the organization’s foundational data model** as a Certified FHIR Implementer on the Verily FHIR Council, establishing architectural standards and ensuring data interoperability across all product lines.
-- **Serve as a Technical Subject Matter Expert (SME) and Liaison** between Engineering and Product Management, translating high-level product vision into scalable technical requirements and guiding the strategic roadmap for data-intensive platforms.
+- **Serve as a Technical Subject Matter Expert (SME) and Liaison** between Engineering and Product Management, translating product vision into scalable technical requirements and guiding the roadmap across multiple data-intensive platforms and initiatives.
+- **Leading a protocol digitization product as CDM SME**, mapping clinical protocols to the USDM standard to orchestrate automated EDC builds — including CDASH-compliant and sponsor-specific data collection forms — working alongside a founding contributor to the USDM standard.
 - **Lead the architectural alignment** of front-end product systems with back-end infrastructure to ensure long-term scalability and seamless functionality for complex research technologies.
 #### Technical Mentorship & Organizational Transformation
 - **Spearheaded an AI Transformation Initiative** for the Product Operations & Management department, upskilling 60+ members in "vibe coding" workflows (Cursor, Claude Code). This program empowered non-engineering teams to build and adopt custom internal tools, significantly reducing manual overhead.
@@ -36,7 +37,7 @@ Verily | Remote | 2022-01 to 2025-08
 
 ### Continuing Education Faculty
 Seneca College | Remote | 2021-10 to Present
-- Sessional instructor teaching students the fundamentals of clinical data management with a focus on creating  electronic data capture projects in REDCap.
+- Sessional instructor teaching the fundamentals of clinical data management, including CDISC standards (CDASH, SDTM) and electronic data capture in REDCap.
 - Collaborated with two data managers to create a brand-new course on Essentials of Clinical Data Management including course content and assignments.
 - Described by students as “a wonderful teacher [with] an ability to organize and simplify course content for the class.”
 
@@ -124,7 +125,7 @@ University of Guelph, Guelph, Ontario
 ## EXPERTISE
 
 - AI Literacy (Cursor, Claude Code)
-- Data management (SQL, EDC, documentation)
+- Data management (SQL, EDC, CDISC standards — CDASH, SDTM, USDM)
 - Writing (briefing notes, SOPs, data management plans)
 - Adobe Photoshop
 - Teaching (in class, video tutorials, documentation)
